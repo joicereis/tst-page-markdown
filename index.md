@@ -9,7 +9,6 @@ Sou especialista em testes manuais e estou me aprofundando em automação com **
 ## 📌 Habilidades
 
 - **Linguagens**: Java (Spring), JavaScript
-- **Automação de Testes**: Cypress, Selenium, Playwright
 - **Testes de API**: Postman, Swagger
 - **Bancos de dados**: Oracle, SQL Server, PostgreSQL
 - **Metodologias Ágeis**: Scrum, Kanban
